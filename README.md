@@ -1,2 +1,2 @@
-lib_A1
-lib_B1
+lib_A2
+lib_B2
